@@ -1,7 +1,4 @@
-/* eslint-disable global-require */
 import React from 'react';
-// import { StyleSheet } from 'react-native';
-
 import { useFonts } from 'expo-font';
 
 import { NavigationContainer } from '@react-navigation/native';
